@@ -9,7 +9,17 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lav-kushwaha" alt="lav-kushwaha" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/lavkushwaha_" target="blank"><img src="https://img.shields.io/twitter/follow/lavkushwaha_?logo=twitter&style=for-the-badge" alt="lavkushwaha_" /></a> </p>
+###
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/lavkushwaha/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="35" alt="linkedin logo"  />
+  </a>
+</div>
+
+###
+
+###
 
 <h3 align="left">👩‍💻  About Me:</h3>
 
