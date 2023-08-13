@@ -35,7 +35,6 @@
 <a href="https://youtube.com/@lavkushwaha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://youtube.com/@lavkushwaha" height="30" width="40" /></a>
 </p>
 
-
 ###
 
 <h3 align="left">🛠 Language and tools</h3>
@@ -73,9 +72,9 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/mysql/4479A1" height="40" alt="mysql logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-  <img width="12" />
   <img src="https://cdn.simpleicons.org/microsoftsqlserver/CC2927" height="40" alt="microsoftsqlserver logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=postman" height="40" alt="postman logo"  />
   <img width="12" />
@@ -93,6 +92,7 @@
 </div>
 
 ###
+
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lav-kushwaha&show_icons=true&locale=en&layout=compact" alt="lav-kushwaha" /></p>
