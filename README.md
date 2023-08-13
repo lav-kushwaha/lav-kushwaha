@@ -13,7 +13,7 @@
 
 <div align="left">
   <a href="https://www.linkedin.com/in/lavkushwaha/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="28" alt="linkedin logo"  />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="24" alt="linkedin logo"  />
   </a>
 </div>
 
@@ -22,7 +22,7 @@
 
 ###
 
-<h3 align="left">👩‍💻  About Me:</h3>
+<h3 align="left">👩‍💻  About Me :</h3>
 
 - 🌱 I’m currently learning **MERN STACK**
 
@@ -38,7 +38,7 @@
 
 - ⚡Fun fact I love creating content. [https://youtube.com/@LavKushwaha](https://youtube.com/@LavKushwaha)
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me :</h3>
 <p align="left">
 <a href="https://twitter.com/lavkushwaha_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="lavkushwaha_" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/lavkushwaha/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/lavkushwaha/" height="30" width="40" /></a>
@@ -48,7 +48,7 @@
 
 ###
 
-<h3 align="left">🛠 Language and tools</h3>
+<h3 align="left">🛠 Language and tools :</h3>
 
 ###
 
