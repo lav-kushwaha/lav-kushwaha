@@ -24,15 +24,15 @@
 
 <h3 align="left">👩‍💻  About Me :</h3>
 
-- 🌱 I’m currently learning **MERN STACK**
+- 🌱 I’m currently learning **MERN STACK.**
 
-- 🤝 I’m looking for job opportunity as a **Full Stack MERN Developer**
+- 🤝 I’m looking for job opportunity as a **Full Stack MERN Developer.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/lav-kushwaha](https://github.com/lav-kushwaha)
 
 - 🧑🏾‍🎓 My Portfolio Link [https://lav-kushwaha.web.app/](https://lav-kushwaha.web.app/)
 
-- 💬 Ask me about **HTML,CSS,JAVASCRIPT,JAVA,REACTJS,NODEJS,EXPRESSJS,MONGODB,MYSQL,ASP DOT NET**
+- 💬 Ask me about **HTML, CSS, JAVASCRIPT, JAVA, REACTJS, NODEJS, EXPRESSJS, MONGODB, MYSQL, ASP DOT NET.**
 
 - 📫 How to reach me **lavkumar1224@gmail.com**
 
