@@ -24,7 +24,7 @@
 
 <h3 align="left">👩‍💻  About Me :</h3>
 
-- 🌱 I’m currently learning **MERN STACK.**
+- 🌱 I’m currently learning **MERN STACK & DSA.**
 
 - 🤝 I’m looking for job opportunity as a **Full Stack MERN Developer.**
 
