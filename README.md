@@ -18,7 +18,7 @@
 ###
 
 <h3 align="left">👩‍💻  About Me :</h3>
-<hr/>
+# 💫 About Me:
 
 - 🌱 I’m currently learning **MERN STACK & DSA.**
 
