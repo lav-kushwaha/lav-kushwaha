@@ -8,17 +8,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lav-kushwaha&label=Profile%20views&color=0e75b6&style=flat" alt="lav-kushwaha"/> </p>
 
 ###
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/lavkushwaha/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="24" alt="linkedin logo"  />
-  </a>
-</div>
-
 ###
 
 <h3 align="left">👩‍💻  About Me :</h3>
-# 💫 About Me:
 
 - 🌱 I’m currently learning **MERN STACK & DSA.**
 
