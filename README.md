@@ -20,7 +20,7 @@
 
 - 🧑🏾‍🎓 My Portfolio Link [https://lav-kushwaha.web.app/](https://lav-kushwaha.web.app/)
 
-- 💬 Ask me about **HTML, CSS, JAVASCRIPT, JAVA, REACTJS, NODEJS, EXPRESSJS, MONGODB, MYSQL, ASP DOT NET.**
+- 💬 Ask me about **HTML, CSS, JAVASCRIPT, JAVA, MERN, MYSQL, ASP DOT NET.**
 
 - 📫 How to reach me **lavkumar1224@gmail.com**
 
