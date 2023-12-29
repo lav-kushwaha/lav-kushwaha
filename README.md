@@ -5,7 +5,7 @@
 <h1 align="center">Hi 👋, I'm Lav Kushwaha</h1>
 <h3 align="center">Aspiring Full Stack MERN Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lav-kushwaha&label=Profile%20views&color=0e75b6&style=flat" alt="lav-kushwaha"/> </p>
+<p align="left"><img src="https://komarev.com/ghpvc/?username=lav-kushwaha&label=Profile%20views&color=0e75b6&style=flat" alt="lav-kushwaha"/> </p>
 
 ###
 ###
