@@ -28,7 +28,7 @@
 
 <h3 align="left">Connect with me :</h3>
 <p align="left">
-<a href="https://twitter.com/lavkushwaha_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="lavkushwaha_" height="30" width="40" /></a>
+<!-- <a href="https://twitter.com/lavkushwaha_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="lavkushwaha_" height="30" width="40" /></a> -->
 <a href="https://www.linkedin.com/in/lavkushwaha/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/lavkushwaha/" height="30" width="40" /></a>
 <a href="https://www.instagram.com/itz_lav_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/itz_lav_/" height="30" width="40" /></a>
 <a href="https://youtube.com/@lavkushwaha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://youtube.com/@lavkushwaha" height="30" width="40" /></a>
