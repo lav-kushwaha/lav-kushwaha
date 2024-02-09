@@ -24,7 +24,7 @@
 
 - 📫 How to reach me **lavkumar1224@gmail.com**
 
-- ⚡Fun fact I love creating content. [https://youtube.com/@LavKushwaha](https://youtube.com/@LavKushwaha)
+- ⚡Fun fact I love creating content : [https://youtube.com/@LavKushwaha](https://youtube.com/@LavKushwaha)
 
 <h3 align="left">Connect with me :</h3>
 <p align="left">
