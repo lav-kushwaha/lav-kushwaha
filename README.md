@@ -16,7 +16,7 @@
 
 - 🤝 I’m looking for job opportunity as a **Full Stack MERN Developer.**
 
-- 👨‍💻 All of my projects are available at [https://github.com/lav-kushwaha](https://github.com/lav-kushwaha)
+<!-- -👨‍💻 All of my projects are available at [https://github.com/lav-kushwaha](https://github.com/lav-kushwaha) -->
 
 - 🧑🏾‍🎓 My Portfolio Link [https://lav-kushwaha.web.app/](https://lav-kushwaha.web.app/)
 
