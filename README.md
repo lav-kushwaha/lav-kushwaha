@@ -18,7 +18,7 @@
 
 <!-- -👨‍💻 All of my projects are available at [https://github.com/lav-kushwaha](https://github.com/lav-kushwaha) -->
 
-- 🧑🏾‍🎓 My Portfolio Link [https://lav-kushwaha.web.app/](https://lav-kushwaha.web.app/)
+<!-- - 🧑🏾‍🎓 My Portfolio Link [https://lav-kushwaha.web.app/](https://lav-kushwaha.web.app/) -->
 
 - 💬 Ask me about **HTML, CSS, JAVASCRIPT, JAVA, MERN, MYSQL, ASP DOT NET.**
 
