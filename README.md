@@ -25,21 +25,21 @@
 - 📫 How to reach me **lavkumar1224@gmail.com**
 
 - ⚡Fun fact I love creating content : [https://youtube.com/@LavKushwaha](https://youtube.com/@LavKushwaha)
-- 
-<h3 align="left">Connect with me :</h3>
 
+<h3 align="left">Connect with me :</h3>
 <p align="left">
 <!-- <a href="https://twitter.com/lavkushwaha_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="lavkushwaha_" height="30" width="40" /></a> -->
 <a href="https://www.linkedin.com/in/lavkushwaha/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/lavkushwaha/" height="30" width="40" /></a>
 <!-- <a href="https://www.instagram.com/itz_lav_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/itz_lav_/" height="30" width="40" /></a>
-<a href="https://youtube.com/@lavkushwaha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://youtube.com/@lavkushwaha" height="30" width="40" /></a>
+<a href="https://youtube.com/@lavkushwaha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://youtube.com/@lavkushwaha" height="30" width="40" /></a> -->
 </p>
 
 ###
 
-<h3 align="left">🛠 Tech Stack, Languages and Tools :</h3>
+<h3 align="left">🛠 Tech Stack, Programming Languages and Tools :</h3>
 
 ###
+
 <div align="left">
   <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
   <img width="10" />
@@ -91,6 +91,8 @@
 </div>
 
 ###
+
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lav-kushwaha&show_icons=true&locale=en&layout=compact" alt="lav-kushwaha" /></p>
 
