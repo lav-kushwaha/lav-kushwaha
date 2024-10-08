@@ -28,9 +28,9 @@
 
 <h3 align="left">Connect with me :</h3>
 <p align="left">
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/lavkushwaha) 
-<!-- <a href="https://twitter.com/lavkushwaha_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="lavkushwaha_" height="30" width="40" /></a> -->
-<!-- <a href="https://www.linkedin.com/in/lavkushwaha/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/lavkushwaha/" height="30" width="40" /></a> -->
+<!-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/lavkushwaha) 
+<!-- <a href="https://twitter.com/lavkushwaha_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="lavkushwaha_" height="30" width="40" /></a> --> -->
+<a href="https://www.linkedin.com/in/lavkushwaha/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/lavkushwaha/" height="30" width="40" /></a>
 <!-- <a href="https://www.instagram.com/itz_lav_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/itz_lav_/" height="30" width="40" /></a>
 <a href="https://youtube.com/@lavkushwaha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://youtube.com/@lavkushwaha" height="30" width="40" /></a> -->
 </p>
@@ -45,7 +45,7 @@
 
 ###
 
-<h3 align="left">📊 GitHub Stats:</h3>
+<h3 align="left">📊 GitHub Stats :</h3>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lav-kushwaha&show_icons=true&locale=en&layout=compact&theme=dark" alt="lav-kushwaha" /></p>
 
