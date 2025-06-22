@@ -22,7 +22,7 @@
 
 - 💬 Ask me about : **HTML, CSS, JAVASCRIPT, JAVA, MERN, MYSQL, ASP DOT NET.**
 
-- 📫 How to reach me : **lavkumar1224@gmail.com**
+- 📫 How to reach me : **lavkushwahaa@gmail.com**
 
 - ⚡Fun fact I love creating content : [https://youtube.com/@LavKushwaha](https://youtube.com/@LavKushwaha)
 
